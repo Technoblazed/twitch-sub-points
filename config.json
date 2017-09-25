@@ -1,0 +1,11 @@
+{
+  "twitch": {
+    "channel_id": "",
+    "client_id": "",
+    "oauth": ""
+  },
+  "offsets": {
+    "points": 0,
+    "subs": 0
+  }
+}
