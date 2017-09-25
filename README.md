@@ -2,11 +2,11 @@
 
 #### Requirements
 
-1. NodeJS (6.4 and later)
+1\. NodeJS (6.4 and later)
 
 #### Installation Instructions
 
-1. Setup the config.json file with the required information. Note that the actual subscription count and point count may need to be offsetted. This is due to free subscriptions, as well as those used on the bots and the streamer. Below is further information about the config:
+1\. Setup the config.json file with the required information. Note that the actual subscription count and point count may need to be offsetted. This is due to free subscriptions, as well as those used on the bots and the streamer. Below is further information about the config:
 
 ```
 {
@@ -28,3 +28,5 @@ cd twitch-sub-points/
 npm install
 npm start
 ```
+
+2\. Navigate to http://localhost:3000/
